@@ -1,2 +1,3 @@
 # Drill1.0
-Drills for the School
+Drills for Tech Academy
+First "Database" created in SQL server 2008R2
